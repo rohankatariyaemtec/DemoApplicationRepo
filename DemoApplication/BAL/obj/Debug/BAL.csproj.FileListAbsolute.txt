@@ -1,0 +1,9 @@
+D:\Emtec2018\DemoApplication\BAL\bin\Debug\BAL.dll
+D:\Emtec2018\DemoApplication\BAL\bin\Debug\BAL.pdb
+D:\Emtec2018\DemoApplication\BAL\bin\Debug\Models.dll
+D:\Emtec2018\DemoApplication\BAL\bin\Debug\Repository.dll
+D:\Emtec2018\DemoApplication\BAL\bin\Debug\Models.pdb
+D:\Emtec2018\DemoApplication\BAL\bin\Debug\Repository.pdb
+D:\Emtec2018\DemoApplication\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Emtec2018\DemoApplication\BAL\obj\Debug\BAL.dll
+D:\Emtec2018\DemoApplication\BAL\obj\Debug\BAL.pdb
